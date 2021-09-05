@@ -46,6 +46,9 @@ import           Text.XML.Stream.Parse
 import qualified Text.XML.Stream.Render   as Render
 import qualified Text.XML.Unresolved      as Unresolved
 
+import qualified Data.Conduit.Combinators as C
+import           Data.Semigroup (Max(..))
+
 import           URI.ByteString
 -- }}}
 
@@ -340,7 +343,15 @@ atomFeed = tagIgnoreAttrs' "feed" $ manyYield' (choose piece) .| zipConduit wher
     <*> ZipConduit (projectC _feedRights .| headC)
     <*> ZipConduit (projectC _feedSubtitle .| headC)
     <*> ZipConduit (projectC _feedTitle .| headRequiredC "Missing <title> element.")
-    <*> ZipConduit (projectC _feedUpdated .| headRequiredC "Missing <updated> element.")
+    <*> ZipConduit projectUpdated
+  projectUpdated = do
+    updatedInfo <- getZipConduit $ (,)
+      <$> ZipConduit (projectC _feedUpdated .| headC)
+      <*> ZipConduit (projectC _feedEntry .| C.foldMap (Just . Max . entryUpdated))
+    case updatedInfo of
+      (Just updatedTag', _) -> return updatedTag'
+      (Nothing, Just (Max newestEntry)) -> return newestEntry
+      (Nothing, Nothing) -> throw $ MissingElement "Missing <updated> element."
   piece = [ fmap FeedAuthor <$> atomPerson "author"
           , fmap FeedCategory <$> atomCategory
           , fmap FeedContributor <$> atomPerson "contributor"
