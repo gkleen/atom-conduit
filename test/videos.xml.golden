@@ -1,0 +1,1065 @@
+AtomFeed
+    { feedAuthors =
+        [ AtomPerson
+            { personName = Refined "TLDR News"
+            , personEmail = ""
+            , personUri = Just URI
+                { uriScheme = Scheme
+                    { schemeBS = "https" }
+                , uriAuthority = Just
+                    ( Authority
+                        { authorityUserInfo = Nothing
+                        , authorityHost = Host
+                            { hostBS = "www.youtube.com" }
+                        , authorityPort = Nothing
+                        }
+                    )
+                , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                , uriQuery = Query
+                    { queryPairs = [] }
+                , uriFragment = Nothing
+                }
+            }
+        ]
+    , feedCategories = []
+    , feedContributors = []
+    , feedEntries =
+        [ AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:m9K5-09q6f4"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "m9K5-09q6f4"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 09 - 05 08 : 30 : 08 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Britain's Secret Nuclear Plans (and Bunker): What Happens if the UK Gets Nuked? - TLDR News"
+            , entryUpdated = 2021 - 09 - 05 09 : 30 : 05 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:E8d1A9-D74Q"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "E8d1A9-D74Q"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 09 - 01 08 : 39 : 20 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Empty Shelves & HGV Driver Shortages: Brexit 8 Months On - TLDR News"
+            , entryUpdated = 2021 - 09 - 04 22 : 35 : 06 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:jGBhQr_vvds"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "jGBhQr_vvds"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 25 09 : 13 : 32 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "The SNP & Greens Team Up: Is Independence Now Inevitable? - TLDR News"
+            , entryUpdated = 2021 - 08 - 30 14 : 33 : 22 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:qxQoGc7sFcY"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "qxQoGc7sFcY"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 21 08 : 30 : 05 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Why is Porn Being Banned from OnlyFans (and why it REALLY matters) - TLDR News"
+            , entryUpdated = 2021 - 08 - 28 19 : 04 : 47 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:A1wqQWMGA6s"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "A1wqQWMGA6s"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 19 08 : 31 : 28 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "How to Solve the Housing Crisis - TLDR News"
+            , entryUpdated = 2021 - 08 - 25 05 : 07 : 49 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:vb5WczPleXY"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "vb5WczPleXY"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 18 11 : 30 : 12 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Johnson Responds to the Taliban: The Parliamentary Debate Explained - TLDR News"
+            , entryUpdated = 2021 - 08 - 25 05 : 12 : 18 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:U990RRVDmnE"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "U990RRVDmnE"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 12 11 : 20 : 38 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "What Can Prince Andrew Do Now? Five Ways to Dodge Conviction - TLDR News"
+            , entryUpdated = 2021 - 08 - 18 17 : 46 : 04 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:5rXImXhETH8"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "5rXImXhETH8"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 11 08 : 42 : 21 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Three Arguments in Favour of Scottish Independence - TLDR News"
+            , entryUpdated = 2021 - 08 - 16 19 : 58 : 52 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:KVZkcLhpLmE"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "KVZkcLhpLmE"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 10 11 : 00 : 13 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Cameron's £10 Million Lobbying Payout is Worse Than You Think - TLDR Now"
+            , entryUpdated = 2021 - 08 - 15 11 : 08 : 03 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:GAPGMtKE36Q"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "GAPGMtKE36Q"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 07 08 : 44 : 34 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Who Decides Which Drugs are Legal? Drug Classification Explained - TLDR News"
+            , entryUpdated = 2021 - 08 - 14 11 : 09 : 09 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:ddGLan8g8Aw"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "ddGLan8g8Aw"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 08 - 04 08 : 38 : 12 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "The Rise of Sinn Fein: The History of Ireland's Nationalist Parties - TLDR News"
+            , entryUpdated = 2021 - 09 - 03 20 : 22 : 34 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:vnPum3tBPzY"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "vnPum3tBPzY"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 07 - 29 08 : 30 : 16 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "London's £2,000,000 Artificial Hill: Visiting the Marble Arch Mound - TLDR Now"
+            , entryUpdated = 2021 - 08 - 01 05 : 03 : 43 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:xp8oRQTtt7o"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "xp8oRQTtt7o"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 07 - 28 10 : 14 : 34 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Police Federation Reject Johnson's New Plans: The Government "Cannot Be Trusted" - TLDR Now"
+            , entryUpdated = 2021 - 07 - 30 03 : 08 : 21 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:pL2ugfUnmTk"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "pL2ugfUnmTk"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 07 - 27 08 : 42 : 01 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "Why Are Houses Unaffordable in Britain? - The Housing Crisis Explained - TLDR News"
+            , entryUpdated = 2021 - 09 - 04 01 : 07 : 39 UTC
+            }
+        , AtomEntry
+            { entryAuthors =
+                [ AtomPerson
+                    { personName = Refined "TLDR News"
+                    , personEmail = ""
+                    , personUri = Just URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                        , uriQuery = Query
+                            { queryPairs = [] }
+                        , uriFragment = Nothing
+                        }
+                    }
+                ]
+            , entryCategories = []
+            , entryContent = Nothing
+            , entryContributors = []
+            , entryId = "yt:video:9T3ampi7GOo"
+            , entryLinks =
+                [ AtomLink
+                    { linkHref = URI
+                        { uriScheme = Scheme
+                            { schemeBS = "https" }
+                        , uriAuthority = Just
+                            ( Authority
+                                { authorityUserInfo = Nothing
+                                , authorityHost = Host
+                                    { hostBS = "www.youtube.com" }
+                                , authorityPort = Nothing
+                                }
+                            )
+                        , uriPath = "/watch"
+                        , uriQuery = Query
+                            { queryPairs =
+                                [
+                                    ( "v"
+                                    , "9T3ampi7GOo"
+                                    )
+                                ]
+                            }
+                        , uriFragment = Nothing
+                        }
+                    , linkRel = "alternate"
+                    , linkType = ""
+                    , linkLang = ""
+                    , linkTitle = ""
+                    , linkLength = ""
+                    }
+                ]
+            , entryPublished = Just 2021 - 07 - 23 08 : 29 : 08 UTC
+            , entryRights = Nothing
+            , entrySource = Nothing
+            , entrySummary = Nothing
+            , entryTitle = AtomPlainText TypeText "The Northern Ireland Protocol Fight Explained - TLDR News"
+            , entryUpdated = 2021 - 07 - 25 17 : 20 : 17 UTC
+            }
+        ]
+    , feedGenerator = Nothing
+    , feedIcon = Nothing
+    , feedId = "yt:channel:UCSMqateX8OA2s1wsOR2EgJA"
+    , feedLinks =
+        [ AtomLink
+            { linkHref = URI
+                { uriScheme = Scheme
+                    { schemeBS = "http" }
+                , uriAuthority = Just
+                    ( Authority
+                        { authorityUserInfo = Nothing
+                        , authorityHost = Host
+                            { hostBS = "www.youtube.com" }
+                        , authorityPort = Nothing
+                        }
+                    )
+                , uriPath = "/feeds/videos.xml"
+                , uriQuery = Query
+                    { queryPairs =
+                        [
+                            ( "channel_id"
+                            , "UCSMqateX8OA2s1wsOR2EgJA"
+                            )
+                        ]
+                    }
+                , uriFragment = Nothing
+                }
+            , linkRel = "self"
+            , linkType = ""
+            , linkLang = ""
+            , linkTitle = ""
+            , linkLength = ""
+            }
+        , AtomLink
+            { linkHref = URI
+                { uriScheme = Scheme
+                    { schemeBS = "https" }
+                , uriAuthority = Just
+                    ( Authority
+                        { authorityUserInfo = Nothing
+                        , authorityHost = Host
+                            { hostBS = "www.youtube.com" }
+                        , authorityPort = Nothing
+                        }
+                    )
+                , uriPath = "/channel/UCSMqateX8OA2s1wsOR2EgJA"
+                , uriQuery = Query
+                    { queryPairs = [] }
+                , uriFragment = Nothing
+                }
+            , linkRel = "alternate"
+            , linkType = ""
+            , linkLang = ""
+            , linkTitle = ""
+            , linkLength = ""
+            }
+        ]
+    , feedLogo = Nothing
+    , feedRights = Nothing
+    , feedSubtitle = Nothing
+    , feedTitle = AtomPlainText TypeText "TLDR News"
+    , feedUpdated = 2021 - 09 - 05 09 : 30 : 05 UTC
+    }
