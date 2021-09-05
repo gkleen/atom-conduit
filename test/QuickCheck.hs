@@ -92,7 +92,7 @@ instance Arbitrary Port where
   arbitrary = Port <$> (getPositive <$> arbitrary)
 
 instance Arbitrary Query where
-  arbitrary = Query <$> listOf ((,) <$> (encodeUtf8 . getNonEmptyText <$> arbitrary) <*> (encodeUtf8 . getNonEmptyText <$> arbitrary))
+  arbitrary = Query <$> listOf ((,) <$> (encodeUtf8 . getNonEmptyText <$> arbitrary) <*> (fmap (encodeUtf8 . getNonEmptyText) <$> arbitrary))
 
 instance Arbitrary URI where
   arbitrary = URI <$> arbitrary
